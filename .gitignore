@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Frontend/UserApp/.vs
+/Frontend/UserApp/build
+/Backend/IIA/Properties/PublishProfiles
+/Backend/IIA/Properties/serviceDependencies.local.json
+/Backend/IIA/Properties/serviceDependencies.json
+/Backend/.vs
